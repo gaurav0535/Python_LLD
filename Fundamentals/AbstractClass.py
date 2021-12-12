@@ -25,3 +25,7 @@ class Square(Shape):
 
 
 shape = Square(1)
+
+
+
+#Here we are implementing the Abstract class behaviour using python 
