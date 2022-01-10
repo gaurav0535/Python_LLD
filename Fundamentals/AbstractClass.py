@@ -18,7 +18,7 @@ class Square(Shape):
     def area(self):
         return self.length*self.length
 
-    def parameter(self):
+    def parameter(self,day):
         return 4*self.length
 
 
